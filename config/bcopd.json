@@ -1,0 +1,18 @@
+{
+  "student_model": "Qwen/Qwen3-1.7B",
+  "teacher_model": "Qwen/Qwen3-30B-A3B",
+  "rollout_group_size": 4,
+  "max_interests": 8,
+  "max_new_tokens": 256,
+  "temperature": 0.9,
+  "lambda_opd": 0.1,
+  "lambda_bc": 0.1,
+  "clip_epsilon": 0.2,
+  "kl_beta": 0.02,
+  "learning_rate": 2e-6,
+  "min_learning_rate": 2e-7,
+  "weight_decay": 0.1,
+  "max_sequence_length": 32768,
+  "seed": 20261012
+}
+

@@ -1,0 +1,1 @@
+Discover concise prospective interests that are not explicitly expressed in the user's history but may be accepted after exploration. Return a valid interest set under the configured output schema.
